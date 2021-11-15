@@ -14,12 +14,11 @@ text-shadow: royalblue;
 }
 
 
-.Master {
+#Master {
 
 background-image: url("MoO2.jpg");
 background-size: cover;
-
-
+font-size: 200px;
 
 }
 
@@ -28,15 +27,23 @@ a:hover {
 
 background-color: red;
 transition: all;
+font-size: 200px;
 
 }
 
 
 
 
+
+
+
+}
+
 @media only screen and (max-width: 800px) {
 
 body {
+
+
 
 background-color: black;
 color: white;
