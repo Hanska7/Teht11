@@ -16,7 +16,7 @@ text-shadow: royalblue;
 
 .Master {
 
-background-image: image(MoO2.jpg)
+background-image: url("MoO2.jpg");
 background-size: cover;
 
 
